@@ -1,0 +1,32 @@
+.register__bg {
+   background-image: url(https://y3z4t4r9.rocketcdn.me/wp-content/uploads/2021/01/register-business-name.png);
+   background-position: center;
+   background-size: cover;
+   height: 85vh;
+}
+
+.signup-profile-pic__container {
+   width: 100px;
+   height: 100px;
+   margin: 0 auto;
+   position: relative;
+
+}
+
+.signup-profile-pic {
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+   border: 1px solid #4A80E1;
+   object-fit: cover;
+}
+
+.add-picture-icon {
+   position: absolute;
+   bottom: 0;
+   right: 8px;
+   color: #85B3FF;
+   background: white;
+   cursor: pointer;
+   z-index: 99;
+}

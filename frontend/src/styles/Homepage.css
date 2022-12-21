@@ -1,0 +1,17 @@
+.section__info h1,
+p,
+a {
+   margin: 1rem !important;
+}
+
+.home__bg {
+   background-image: url(https://whatfix.com/blog/wp-content/uploads/2021/11/Blog-HERO-Images.png);
+   height: 87vh;
+   background-position: center;
+   background-size: cover;
+   overflow-x: hidden !important;
+}
+
+.home-message-icon {
+   margin-left: 1rem !important;
+}

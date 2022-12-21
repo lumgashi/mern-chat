@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+* {
+  /* margin: 0px !important;
+  outline: none !important; */
+  font-family: 'Montserrat';
+}
+
+body {
+  overflow-x: hidden !important;
+}
+
+button {
+  outline: none !important;
+}
+
+a {
+  outline: none !important;
+  text-decoration: none !important;
+}
+
+form:focus {
+  outline: none !important;
+}
