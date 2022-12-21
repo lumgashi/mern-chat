@@ -1,7 +1,7 @@
 # mern-iChat
  
  ### Description
- A simple chat, where users can talk to each other privatly, or use "rooms" which are like public chats, where all the logged in users can communicate with other users, there are rooms about crypto, general, tech & finance.
+ A simple real time chat, where users can talk to each other privatly, or use "rooms" which are like public chats, where all the logged in users can communicate with other users, there are rooms about crypto, general, tech & finance, all of this in real time.
 
 
 ### Technologies
